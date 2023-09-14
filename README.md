@@ -11,5 +11,6 @@ object **glendismo** {
 
  val primarySkillset = "UX/UI/Front-end"
  val languages = listOf("HTML5", "CSS3", "JavaScript")
+
 }
 ```
